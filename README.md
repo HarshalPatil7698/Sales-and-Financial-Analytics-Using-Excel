@@ -41,6 +41,13 @@ AtliQ is a fast-growing hardware company that sells various products to customer
 2. **Finance Report Overview:**
    The Finance report aids in understanding the overall company performance and identifying potential expansion opportunities guided by valuable insights.
 
+   **View Project Engagement on Linkedin:**
+[Sales and Finance Analytics Report](https://www.linkedin.com/posts/harshal-patil-a36181208_sales-and-finance-analytics-report-activity-7139117247934988288-5dQC?utm_source=share&utm_medium=member_android)
+
+
+
+
+
 
 
 
