@@ -16,6 +16,9 @@ AtliQ is a fast-growing hardware company that sells various products to customer
 * Creating P&L reports by year, quarters and months.
 * Further analysis of the given data by solving the assignment problems.
 
+  
+![Sales Report](https://github.com/HarshalPatil7698/Sales-and-Financial-Analytics-Using-Excel/assets/141994460/d813672c-053d-4b7e-a7cc-e40b36066e51)
+
 
 <h2 style="font-size: 18px; font-weight: lighter;">Project Highlights</h2>
 
